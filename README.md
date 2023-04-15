@@ -1,7 +1,6 @@
 
 
 # Welkom to my profile
-* hello there!
 
 ## Contact
 * Discord: Cedric#0015
