@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Welcome to My Profile! /h2>  
+<h2 align="center">Welcome to My Profile! </h2>  
 
 ## Contact
   
