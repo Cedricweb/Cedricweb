@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=cedricaf&color=brightgreen&style=for-the-badge)
 
 # Welcome to My Profile! 
 
