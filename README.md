@@ -4,7 +4,7 @@
 
 ## Contact
   
-* Discord: 
+* Discord: ucedric
 * Email: cedricaf@outlook.com
 
 
