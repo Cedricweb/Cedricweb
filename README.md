@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=cedrickiraly&color=brightgreen&style=for-the-badge)
 
-# Welcome to My Profile! 
+
 
 ## Contact
   
